@@ -102,6 +102,7 @@ var person = people.forEach((e, i) => {
   });
 });
 console.table(newSumArr.sort());
+//This kinda sucks!
 console.log("E__________N__________D");
 console.log("");
 
